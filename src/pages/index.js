@@ -707,7 +707,7 @@ export default function Index() {
             <Image src="/logo.png" alt="NChill" width={120} height={64} />
           </Link>
           <p>
-            © 2025 NChill Inc. ·{" "}
+            © 2026 NChill Inc. ·{" "}
             <a href="#" style={{ color: "inherit" }}>
               Privacy
             </a>{" "}
